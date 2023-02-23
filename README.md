@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JadJHaddad
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on anything really
 - 📫 You can reach me at jadjihadhaddad@gmail.com
 
